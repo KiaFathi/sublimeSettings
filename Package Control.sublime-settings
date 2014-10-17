@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"ColorPicker",
+		"DashDoc",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"Predawn",
+		"ReactJS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
+	]
+}
